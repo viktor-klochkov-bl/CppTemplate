@@ -1,10 +1,10 @@
 # CppTemplate project
 
-[![CMake on a single platform](https://github.com/viktorklochkov/CppTemplate/actions/workflows/cmake-single-platform.yml/badge.svg?branch=main)](https://github.com/viktorklochkov/CppTemplate/actions/workflows/cmake-single-platform.yml)
-[![IWYU](https://github.com/viktorklochkov/CppTemplate/actions/workflows/iwyu.yml/badge.svg)](https://github.com/viktorklochkov/CppTemplate/actions/workflows/iwyu.yml)
-[![clang-tidy](https://github.com/viktorklochkov/CppTemplate/actions/workflows/clang-tidy.yml/badge.svg)](https://github.com/viktorklochkov/CppTemplate/actions/workflows/clang-tidy.yml)
-[![Clang Format Checker](https://github.com/viktorklochkov/CppTemplate/actions/workflows/clang-format.yml/badge.svg)](https://github.com/viktorklochkov/CppTemplate/actions/workflows/clang-format.yml)
-[![Doxygen Action](https://github.com/viktorklochkov/CppTemplate/actions/workflows/doxygen.yml/badge.svg)](https://github.com/viktorklochkov/CppTemplate/actions/workflows/doxygen.yml)
+[![CMake on a single platform](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/cmake-single-platform.yml/badge.svg?branch=main)](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/cmake-single-platform.yml)
+[![IWYU](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/iwyu.yml/badge.svg)](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/iwyu.yml)
+[![clang-tidy](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/clang-tidy.yml/badge.svg)](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/clang-tidy.yml)
+[![Clang Format Checker](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/clang-format.yml/badge.svg)](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/clang-format.yml)
+[![Doxygen Action](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/doxygen.yml/badge.svg)](https://github.com/viktor-klochkov-bl/CppTemplate/actions/workflows/doxygen.yml)
 
 ## Overview
 
@@ -22,7 +22,7 @@ CppTemplate is a template repository for C++ projects. It includes a set of tool
 
 1. **Clone the repository**:
   ```sh
-  git clone https://github.com/viktorklochkov/CppTemplate.git
+  git clone https://github.com/viktor-klochkov-bl/CppTemplate.git
   cd CppTemplate
   ```
 
